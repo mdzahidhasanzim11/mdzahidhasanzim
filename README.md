@@ -4,9 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzahidhasanzim11&label=Profile%20views&color=0e75b6&style=flat" alt="mdzahidhasanzim11" /> </p>
 
 - 🔭 I’m currently working on **WordPress**
-
+- 🌱 I’m currently working on **Html/CSS**
 - 🌱 I’m currently learning **JavaScript**
-
 - 👯 I’m looking to collaborate on **Github**
 
 <h3 align="left">Connect with me:</h3>
