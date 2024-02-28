@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Zahid Hasan Zim</h1>
-<h3 align="justify">I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include JavaScript as well as PHP.</h3>
+<h3 align="justify">Experienced and dedicated WordPress Technical Support Engineer with exceptional communication skills in English. Proficient in WordPress with a comprehensive understanding of code changes to themes and plugins for bug fixes and issue resolution. Strong command of HTML and CSS, coupled with extensive experience in Gutenberg, Elementor Page Builder. Adept at problem-solving and quick learning, with hands-on experience in WooCommerce and other popular plugins</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzahidhasanzim11&label=Profile%20views&color=0e75b6&style=flat" alt="mdzahidhasanzim11" /> </p>
 
